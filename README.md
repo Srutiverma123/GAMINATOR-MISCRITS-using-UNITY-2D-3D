@@ -12,12 +12,12 @@ attack, if the situation is vice versa i.e. if current health of player >= 30 an
 player which has 50% accuracy to hit the enemy but has power of doing high damage i.e. health of enemy miscrit will decrease a lot and this option only gets activated when the 
 health of the player miscrit is less than 50%. 
 
-# Rules of Progression: 
+# Rules of Progression
 Player has to hit a tree in the jungle to start the battle. Players will start with a base miscrit with decent stats, and as they battle with more 
 creatures, they can defeat it to gain points and boost their health and attack power. Whenever a player wins, he will get points and stats boost up so that he can finally face 
 the boss who is a witch with more health and attack power. 
 
-# Challenge Mechanics: 
+# Challenge Mechanics
 The player has to strategically chose the attack, heal or critical attack options to win over the enemy miscrit and boost his stats. He has to keep on 
 winning with the enemy until he feels he is strong enough to defeat the final boss witch. Defeating the new creatures adds 10% of their power to your stats. Capture the best 
 Miscrits and gain as many points as you can. Winning matches and being on the top of the score board will be a challenge.
