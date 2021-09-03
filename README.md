@@ -2,12 +2,15 @@
 Miscrits is a turn based combat game, consisting of mythical creatures. You will wander around in a magical forest that contains these creatures, searching for creatures to 
 fight against, and defeat them. Player will be playing the role of a miscrit which will fight with six other miscrits. 
 
+
 # Demo of the game
 https://drive.google.com/file/d/1o_3BDpXa4XD7PS3OIJgRpe3Lve-GXpf8/view?usp=sharing
 
 After downloading the codes, run home.html using Mozilla Firefox browser.
 
-# GAME is built in Unity 2D & the INSTRUCTIONS PAGE is built using Unity 3D.
+
+# GAME is built in Unity 2D & the INSTRUCTIONS PAGE is built using Unity 3D. This website provides the feature to read the instructions book of the game, play the game and chat with other players.
+
 
 # GAME MECHANICS
 The game requires you to grind which needs the player to defeat the enemies to boost up his health and attack power so he can defeat the boss witch who is very powerful having 
@@ -19,6 +22,7 @@ attack, if the situation is vice versa i.e. if current health of player >= 30 an
 player which has 50% accuracy to hit the enemy but has power of doing high damage i.e. health of enemy miscrit will decrease a lot and this option only gets activated when the 
 health of the player miscrit is less than 50%. 
 
+
 # Rules of Progression
 Player has to hit a tree in the jungle to start the battle. Players will start with a base miscrit with decent stats, and as they battle with more 
 creatures, they can defeat it to gain points and boost their health and attack power. Whenever a player wins, he will get points and stats boost up so that he can finally face 
@@ -28,6 +32,7 @@ the boss who is a witch with more health and attack power.
 The player has to strategically chose the attack, heal or critical attack options to win over the enemy miscrit and boost his stats. He has to keep on 
 winning with the enemy until he feels he is strong enough to defeat the final boss witch. Defeating the new creatures adds 10% of their power to your stats. Capture the best 
 Miscrits and gain as many points as you can. Winning matches and being on the top of the score board will be a challenge.
+
 
 # GAME RULES
 1. Register yourself for the game entering your username and password. 
