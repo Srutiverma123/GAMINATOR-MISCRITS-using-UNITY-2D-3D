@@ -2,6 +2,9 @@
 Miscrits is a turn based combat game, consisting of mythical creatures. You will wander around in a magical forest that contains these creatures, searching for creatures to 
 fight against, and defeat them. Player will be playing the role of a miscrit which will fight with six other miscrits. 
 
+# Demo of the game
+https://drive.google.com/file/d/1o_3BDpXa4XD7PS3OIJgRpe3Lve-GXpf8/view?usp=sharing
+
 # GAME MECHANICS
 The game requires you to grind which needs the player to defeat the enemies to boost up his health and attack power so he can defeat the boss witch who is very powerful having 
 250+ health points and higher attack power. Every time you defeat a miscrit from the pool of 6 miscrits, player miscrit’s health and attack will be boosted by 10% and this 10% 
